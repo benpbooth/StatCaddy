@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>StatCaddy.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cf8e6d;}
+.s1 { color: #bcbec4;}
+.s2 { color: #bcbec4;}
+.s3 { color: #6aab73;}
+.s4 { color: #7a7e85;}
+.s5 { color: #2aacb8;}
+</style>
+</head>
+<body bgcolor="#1e1f22">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+StatCaddy.py</font>
+</center></td></tr></table>
+<pre><span class="s0">import </span><span class="s1">pandas </span><span class="s0">as </span><span class="s1">pd</span>
+<span class="s0">import </span><span class="s1">sqlite3</span>
+<span class="s0">import </span><span class="s1">matplotlib</span><span class="s2">.</span><span class="s1">pyplot </span><span class="s0">as </span><span class="s1">plt</span>
+
+<span class="s1">file_path </span><span class="s2">= </span><span class="s3">&quot;/Users/benbooth/Desktop/StatCaddy/datagolf_odds_master_draftkings.xlsx&quot;</span>
+<span class="s1">df </span><span class="s2">= </span><span class="s1">pd</span><span class="s2">.</span><span class="s1">read_excel</span><span class="s2">(</span><span class="s3">&quot;/Users/benbooth/Desktop/StatCaddy/datagolf_odds_master_draftkings.xlsx&quot;</span><span class="s2">)</span>
+
+<span class="s4">#Connect to SQLite DB</span>
+<span class="s1">db_path </span><span class="s2">= </span><span class="s3">&quot;/Users/benbooth/Desktop/StatCaddy/pga_data.db&quot;</span>
+<span class="s1">connection </span><span class="s2">= </span><span class="s1">sqlite3</span><span class="s2">.</span><span class="s1">connect</span><span class="s2">(</span><span class="s1">db_path</span><span class="s2">)</span>
+
+<span class="s4">#DF to SQLite</span>
+<span class="s1">query </span><span class="s2">= </span><span class="s3">&quot;&quot;&quot; 
+WITH ranked_data AS ( 
+    SELECT 
+        event_id, 
+        player_name, 
+        close_odds, 
+        bet_outcome_numeric, 
+        RANK() OVER (PARTITION BY event_id ORDER BY close_odds ASC) AS rank 
+    FROM pga_data 
+) 
+SELECT 
+    COUNT(*) AS num_wins_outside_top_25 
+FROM ranked_data 
+WHERE rank &gt; 50 AND bet_outcome_numeric = 1; 
+&quot;&quot;&quot;</span>
+
+<span class="s4"># Execute the query</span>
+<span class="s1">result </span><span class="s2">= </span><span class="s1">pd</span><span class="s2">.</span><span class="s1">read_sql</span><span class="s2">(</span><span class="s1">query</span><span class="s2">, </span><span class="s1">connection</span><span class="s2">)</span>
+
+<span class="s4"># Display the result</span>
+<span class="s1">print</span><span class="s2">(</span><span class="s3">&quot;Number of wins by players outside top 50 closing odds:&quot;</span><span class="s2">, </span><span class="s1">result</span><span class="s2">.</span><span class="s1">iloc</span><span class="s2">[</span><span class="s5">0</span><span class="s2">, </span><span class="s5">0</span><span class="s2">])</span>
+
+<span class="s4"># Close the connection</span>
+<span class="s1">connection</span><span class="s2">.</span><span class="s1">close</span><span class="s2">()</span></pre>
+</body>
+</html>
