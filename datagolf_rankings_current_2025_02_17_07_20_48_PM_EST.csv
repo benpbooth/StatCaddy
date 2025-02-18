@@ -1,0 +1,501 @@
+player_name,primary_tour,dg_rank,dg_change,owgr_rank,owgr_change,dg_index,Timestamp
+"Scheffler, Scottie",PGA Tour,1,0,1.0,0,2.763,2025_02_17_07_20_48_PM_EST
+"McIlroy, Rory",PGA Tour,2,0,3.0,0,2.101,2025_02_17_07_20_48_PM_EST
+"Schauffele, Xander",PGA Tour,3,0,2.0,0,2.03,2025_02_17_07_20_48_PM_EST
+"Rahm, Jon",LIV Golf,4,0,52.0,-3,1.891,2025_02_17_07_20_48_PM_EST
+"Morikawa, Collin",PGA Tour,5,0,5.0,-1,1.831,2025_02_17_07_20_48_PM_EST
+"Thomas, Justin",PGA Tour,6,1,9.0,2,1.681,2025_02_17_07_20_48_PM_EST
+"Hatton, Tyrrell",DP World Tour,7,-1,8.0,0,1.657,2025_02_17_07_20_48_PM_EST
+"Matsuyama, Hideki",PGA Tour,8,0,6.0,-1,1.617,2025_02_17_07_20_48_PM_EST
+"Fleetwood, Tommy",PGA Tour,9,2,10.0,2,1.563,2025_02_17_07_20_48_PM_EST
+"Cantlay, Patrick",PGA Tour,10,2,12.0,3,1.547,2025_02_17_07_20_48_PM_EST
+"Aberg, Ludvig",PGA Tour,11,5,4.0,2,1.475,2025_02_17_07_20_48_PM_EST
+"DeChambeau, Bryson",LIV Golf,12,-2,13.0,-3,1.413,2025_02_17_07_20_48_PM_EST
+"Niemann, Joaquin",LIV Golf,13,5,73.0,1,1.4,2025_02_17_07_20_48_PM_EST
+"Henley, Russell",PGA Tour,14,-5,17.0,-1,1.371,2025_02_17_07_20_48_PM_EST
+"Im, Sungjae",PGA Tour,15,-2,22.0,-1,1.271,2025_02_17_07_20_48_PM_EST
+"Lowry, Shane",PGA Tour,16,-2,19.0,-1,1.258,2025_02_17_07_20_48_PM_EST
+"Burns, Sam",PGA Tour,17,0,27.0,-2,1.243,2025_02_17_07_20_48_PM_EST
+"Finau, Tony",PGA Tour,18,5,26.0,4,1.218,2025_02_17_07_20_48_PM_EST
+"McNealy, Maverick",PGA Tour,19,8,14.0,12,1.217,2025_02_17_07_20_48_PM_EST
+"McCarthy, Denny",PGA Tour,20,14,38.0,12,1.045,2025_02_17_07_20_48_PM_EST
+"Straka, Sepp",PGA Tour,21,-6,18.0,-1,1.039,2025_02_17_07_20_48_PM_EST
+"MacIntyre, Robert",PGA Tour,22,-2,16.0,-2,1.024,2025_02_17_07_20_48_PM_EST
+"Pendrith, Taylor",PGA Tour,23,-4,39.0,-1,1.023,2025_02_17_07_20_48_PM_EST
+"Bhatia, Akshay",PGA Tour,24,13,30.0,1,0.984,2025_02_17_07_20_48_PM_EST
+"Kim, Tom",PGA Tour,25,-3,24.0,-1,0.971,2025_02_17_07_20_48_PM_EST
+"Hovland, Viktor",PGA Tour,26,-2,11.0,-2,0.962,2025_02_17_07_20_48_PM_EST
+"Scott, Adam",PGA Tour,27,-1,25.0,-1,0.959,2025_02_17_07_20_48_PM_EST
+"Bradley, Keegan",PGA Tour,28,1,15.0,-2,0.953,2025_02_17_07_20_48_PM_EST
+"Kim, Si Woo",PGA Tour,29,2,64.0,2,0.944,2025_02_17_07_20_48_PM_EST
+"Noren, Alex",PGA Tour,30,0,60.0,1,0.939,2025_02_17_07_20_48_PM_EST
+"Conners, Corey",PGA Tour,31,2,49.0,-1,0.922,2025_02_17_07_20_48_PM_EST
+"Greyserman, Max",PGA Tour,32,3,36.0,-2,0.902,2025_02_17_07_20_48_PM_EST
+"Day, Jason",PGA Tour,33,-8,33.0,-1,0.869,2025_02_17_07_20_48_PM_EST
+"Garcia, Sergio",LIV Golf,34,2,487.0,-4,0.855,2025_02_17_07_20_48_PM_EST
+"Poston, J.T.",PGA Tour,35,-3,40.0,0,0.835,2025_02_17_07_20_48_PM_EST
+"Hojgaard, Rasmus",DP World Tour,36,-15,43.0,-4,0.831,2025_02_17_07_20_48_PM_EST
+"Thompson, Davis",PGA Tour,37,7,48.0,4,0.818,2025_02_17_07_20_48_PM_EST
+"Rai, Aaron",PGA Tour,38,2,29.0,-2,0.784,2025_02_17_07_20_48_PM_EST
+"Hall, Harry",PGA Tour,39,2,89.0,-1,0.774,2025_02_17_07_20_48_PM_EST
+"Bezuidenhout, Christiaan",PGA Tour,40,-1,51.0,0,0.766,2025_02_17_07_20_48_PM_EST
+"Spaun, J.J.",PGA Tour,41,2,81.0,-1,0.763,2025_02_17_07_20_48_PM_EST
+"Glover, Lucas",PGA Tour,42,3,41.0,2,0.758,2025_02_17_07_20_48_PM_EST
+"Detry, Thomas",PGA Tour,43,-15,23.0,-1,0.751,2025_02_17_07_20_48_PM_EST
+"Lee, Min Woo",PGA Tour,44,-6,55.0,-2,0.741,2025_02_17_07_20_48_PM_EST
+"Puig, David",LIV Golf,45,13,83.0,-2,0.737,2025_02_17_07_20_48_PM_EST
+"Theegala, Sahith",PGA Tour,46,7,20.0,-1,0.736,2025_02_17_07_20_48_PM_EST
+"Stevens, Samuel",PGA Tour,47,1,76.0,0,0.721,2025_02_17_07_20_48_PM_EST
+"Berger, Daniel",PGA Tour,48,15,53.0,6,0.72,2025_02_17_07_20_48_PM_EST
+"Zalatoris, Will",PGA Tour,49,2,66.0,2,0.717,2025_02_17_07_20_48_PM_EST
+"Clark, Wyndham",PGA Tour,50,-1,7.0,0,0.705,2025_02_17_07_20_48_PM_EST
+"Kitayama, Kurt",PGA Tour,51,-5,85.0,-1,0.699,2025_02_17_07_20_48_PM_EST
+"Koepka, Brooks",LIV Golf,52,3,149.0,-7,0.682,2025_02_17_07_20_48_PM_EST
+"Taylor, Nick",PGA Tour,53,24,28.0,0,0.666,2025_02_17_07_20_48_PM_EST
+"Griffin, Ben",PGA Tour,54,-7,65.0,-1,0.637,2025_02_17_07_20_48_PM_EST
+"Harman, Brian",PGA Tour,55,12,35.0,2,0.633,2025_02_17_07_20_48_PM_EST
+"Kim, Michael",PGA Tour,56,15,80.0,6,0.631,2025_02_17_07_20_48_PM_EST
+"Ancer, Abraham",LIV Golf,57,24,454.0,-1,0.631,2025_02_17_07_20_48_PM_EST
+"Burmester, Dean",LIV Golf,58,6,131.0,-2,0.611,2025_02_17_07_20_48_PM_EST
+"Novak, Andrew",PGA Tour,59,20,77.0,2,0.609,2025_02_17_07_20_48_PM_EST
+"Power, Seamus",PGA Tour,60,9,116.0,8,0.602,2025_02_17_07_20_48_PM_EST
+"Horschel, Billy",PGA Tour,61,-11,21.0,-1,0.6,2025_02_17_07_20_48_PM_EST
+"Leishman, Marc",LIV Golf,62,-3,425.0,2,0.598,2025_02_17_07_20_48_PM_EST
+"Hossler, Beau",PGA Tour,63,-3,82.0,-4,0.583,2025_02_17_07_20_48_PM_EST
+"An, Byeong Hun",PGA Tour,64,-22,32.0,-3,0.581,2025_02_17_07_20_48_PM_EST
+"Moore, Taylor",PGA Tour,65,-3,78.0,-3,0.572,2025_02_17_07_20_48_PM_EST
+"Fitzpatrick, Matt",PGA Tour,66,-14,58.0,-1,0.554,2025_02_17_07_20_48_PM_EST
+"Eckroat, Austin",PGA Tour,67,-11,44.0,-2,0.542,2025_02_17_07_20_48_PM_EST
+"English, Harris",PGA Tour,68,17,34.0,1,0.537,2025_02_17_07_20_48_PM_EST
+"Putnam, Andrew",PGA Tour,69,-3,141.0,2,0.526,2025_02_17_07_20_48_PM_EST
+"Rodgers, Patrick",PGA Tour,70,37,75.0,33,0.524,2025_02_17_07_20_48_PM_EST
+"Smith, Cameron",LIV Golf,71,-6,96.0,-2,0.523,2025_02_17_07_20_48_PM_EST
+"Davis, Cameron",PGA Tour,72,-18,47.0,-2,0.517,2025_02_17_07_20_48_PM_EST
+"Kuchar, Matt",PGA Tour,73,-1,127.0,0,0.498,2025_02_17_07_20_48_PM_EST
+"Mitchell, Keith",PGA Tour,74,-1,98.0,-1,0.493,2025_02_17_07_20_48_PM_EST
+"Hodges, Lee",PGA Tour,75,1,86.0,-3,0.486,2025_02_17_07_20_48_PM_EST
+"Oosthuizen, Louis",LIV Golf,76,-15,230.0,-1,0.478,2025_02_17_07_20_48_PM_EST
+"Jaeger, Stephan",PGA Tour,77,-3,50.0,-3,0.471,2025_02_17_07_20_48_PM_EST
+"Lower, Justin",PGA Tour,78,2,84.0,-2,0.456,2025_02_17_07_20_48_PM_EST
+"Canter, Laurie",DP World Tour,79,3,54.0,0,0.452,2025_02_17_07_20_48_PM_EST
+"Wallace, Matt",DP World Tour,80,3,72.0,1,0.452,2025_02_17_07_20_48_PM_EST
+"Olesen, Thorbjorn",DP World Tour,81,3,79.0,-2,0.45,2025_02_17_07_20_48_PM_EST
+"Hughes, Mackenzie",PGA Tour,82,-25,63.0,0,0.449,2025_02_17_07_20_48_PM_EST
+"Young, Cameron",PGA Tour,83,-13,46.0,-2,0.438,2025_02_17_07_20_48_PM_EST
+"Fishburn, Patrick",PGA Tour,84,3,111.0,-2,0.431,2025_02_17_07_20_48_PM_EST
+"Dunlap, Nick",PGA Tour,85,18,31.0,2,0.429,2025_02_17_07_20_48_PM_EST
+"McKibbin, Tom",DP World Tour,86,12,112.0,0,0.427,2025_02_17_07_20_48_PM_EST
+"Tringale, Cameron",LIV Golf,87,10,,0,0.411,2025_02_17_07_20_48_PM_EST
+"Vegas, Jhonattan",PGA Tour,88,0,62.0,0,0.405,2025_02_17_07_20_48_PM_EST
+"Norgaard, Niklas",DP World Tour,89,0,91.0,-1,0.401,2025_02_17_07_20_48_PM_EST
+"Fowler, Rickie",PGA Tour,90,1,92.0,-1,0.395,2025_02_17_07_20_48_PM_EST
+"Reed, Patrick",LIV Golf,91,-16,118.0,-1,0.393,2025_02_17_07_20_48_PM_EST
+"Woodland, Gary",PGA Tour,92,-14,169.0,0,0.387,2025_02_17_07_20_48_PM_EST
+"Ortiz, Carlos",LIV Golf,93,26,372.0,0,0.381,2025_02_17_07_20_48_PM_EST
+"Munoz, Sebastian",LIV Golf,94,-26,,0,0.375,2025_02_17_07_20_48_PM_EST
+"Spieth, Jordan",PGA Tour,95,-9,67.0,-2,0.373,2025_02_17_07_20_48_PM_EST
+"Ghim, Doug",PGA Tour,96,-4,103.0,-2,0.371,2025_02_17_07_20_48_PM_EST
+"Neergaard-Petersen, Rasmus",DP World Tour,97,-4,87.0,-2,0.364,2025_02_17_07_20_48_PM_EST
+"Casey, Paul",LIV Golf,98,-8,,0,0.344,2025_02_17_07_20_48_PM_EST
+"Meissner, Mac",PGA Tour,99,-3,152.0,0,0.338,2025_02_17_07_20_48_PM_EST
+"Bland, Richard",LIV Golf,100,21,,0,0.332,2025_02_17_07_20_48_PM_EST
+"Smalley, Alex",PGA Tour,101,-1,150.0,0,0.321,2025_02_17_07_20_48_PM_EST
+"Pan, C.T.",PGA Tour,102,-1,115.0,-1,0.314,2025_02_17_07_20_48_PM_EST
+"Smith, Jordan",DP World Tour,103,-1,101.0,-2,0.312,2025_02_17_07_20_48_PM_EST
+"Herbert, Lucas",LIV Golf,104,-9,255.0,-4,0.31,2025_02_17_07_20_48_PM_EST
+"Yu, Kevin",PGA Tour,105,20,69.0,2,0.306,2025_02_17_07_20_48_PM_EST
+"Clanton, Luke",PGA Tour,106,-1,93.0,0,0.29,2025_02_17_07_20_48_PM_EST
+"Cole, Eric",PGA Tour,107,-3,59.0,-1,0.259,2025_02_17_07_20_48_PM_EST
+"Bridgeman, Jacob",PGA Tour,108,0,203.0,-2,0.253,2025_02_17_07_20_48_PM_EST
+"Keefer, Johnny",Other Tours,109,0,159.0,0,0.251,2025_02_17_07_20_48_PM_EST
+"Svensson, Adam",PGA Tour,110,0,142.0,-1,0.247,2025_02_17_07_20_48_PM_EST
+"Manassero, Matteo",DP World Tour,111,0,102.0,-2,0.247,2025_02_17_07_20_48_PM_EST
+"Kanaya, Takumi",Other Tours,112,1,156.0,0,0.23,2025_02_17_07_20_48_PM_EST
+"Gerard, Ryan",Korn Ferry Tour,113,1,195.0,-1,0.227,2025_02_17_07_20_48_PM_EST
+"Cauley, Bud",PGA Tour,114,1,248.0,0,0.218,2025_02_17_07_20_48_PM_EST
+"Echavarria, Nicolas",PGA Tour,115,13,45.0,1,0.218,2025_02_17_07_20_48_PM_EST
+"Lahiri, Anirban",LIV Golf,116,26,,0,0.21,2025_02_17_07_20_48_PM_EST
+"Uihlein, Peter",LIV Golf,117,3,143.0,1,0.203,2025_02_17_07_20_48_PM_EST
+"Hoffman, Charley",PGA Tour,118,-1,100.0,-2,0.202,2025_02_17_07_20_48_PM_EST
+"Rose, Justin",PGA Tour,119,-7,37.0,-1,0.196,2025_02_17_07_20_48_PM_EST
+"Fox, Ryan",PGA Tour,120,-2,99.0,-3,0.193,2025_02_17_07_20_48_PM_EST
+"Veerman, Johannes",DP World Tour,121,2,126.0,0,0.176,2025_02_17_07_20_48_PM_EST
+"Perez, Victor",PGA Tour,122,2,94.0,-2,0.174,2025_02_17_07_20_48_PM_EST
+"Hadwin, Adam",PGA Tour,123,-24,70.0,-3,0.172,2025_02_17_07_20_48_PM_EST
+"Hoge, Tom",PGA Tour,124,-30,68.0,1,0.154,2025_02_17_07_20_48_PM_EST
+"Kirk, Chris",PGA Tour,125,2,71.0,-1,0.149,2025_02_17_07_20_48_PM_EST
+"Campillo, Jorge",DP World Tour,126,3,113.0,0,0.141,2025_02_17_07_20_48_PM_EST
+"Guerrier, Julien",DP World Tour,127,3,123.0,-2,0.14,2025_02_17_07_20_48_PM_EST
+"Soderberg, Sebastian",DP World Tour,128,3,120.0,3,0.137,2025_02_17_07_20_48_PM_EST
+"Homa, Max",PGA Tour,129,-13,61.0,-1,0.137,2025_02_17_07_20_48_PM_EST
+"Silverman, Ben",PGA Tour,130,2,155.0,0,0.136,2025_02_17_07_20_48_PM_EST
+"McGreevy, Max",Korn Ferry Tour,131,2,95.0,0,0.133,2025_02_17_07_20_48_PM_EST
+"Campbell, Brian",Korn Ferry Tour,132,2,222.0,-1,0.132,2025_02_17_07_20_48_PM_EST
+"Svensson, Jesper",DP World Tour,133,2,107.0,0,0.121,2025_02_17_07_20_48_PM_EST
+"Hojgaard, Nicolai",DP World Tour,134,2,74.0,-2,0.118,2025_02_17_07_20_48_PM_EST
+"Roy, Kevin",Korn Ferry Tour,135,2,214.0,0,0.116,2025_02_17_07_20_48_PM_EST
+"Rozner, Antoine",DP World Tour,136,2,132.0,-1,0.115,2025_02_17_07_20_48_PM_EST
+"Ryder, Sam",PGA Tour,137,2,188.0,-1,0.104,2025_02_17_07_20_48_PM_EST
+"Kim, Chan",PGA Tour,138,2,167.0,-1,0.102,2025_02_17_07_20_48_PM_EST
+"Capan III, Frankie",Korn Ferry Tour,139,2,137.0,1,0.1,2025_02_17_07_20_48_PM_EST
+"Jordan, Matthew",DP World Tour,140,3,124.0,-2,0.096,2025_02_17_07_20_48_PM_EST
+"Sigg, Greyson",PGA Tour,141,3,166.0,-1,0.095,2025_02_17_07_20_48_PM_EST
+"Highsmith, Joe",PGA Tour,142,3,172.0,-1,0.085,2025_02_17_07_20_48_PM_EST
+"Whaley, Vince",PGA Tour,143,3,122.0,-3,0.085,2025_02_17_07_20_48_PM_EST
+"Langasque, Romain",DP World Tour,144,3,90.0,-1,0.074,2025_02_17_07_20_48_PM_EST
+"Hubbard, Mark",PGA Tour,145,-19,109.0,-5,0.057,2025_02_17_07_20_48_PM_EST
+"Young, Carson",PGA Tour,146,2,151.0,0,0.053,2025_02_17_07_20_48_PM_EST
+"Meronk, Adrian",LIV Golf,147,20,165.0,-2,0.051,2025_02_17_07_20_48_PM_EST
+"Norris, Shaun",Other Tours,148,-42,105.0,1,0.049,2025_02_17_07_20_48_PM_EST
+"Smotherman, Austin",PGA Tour,149,0,260.0,0,0.045,2025_02_17_07_20_48_PM_EST
+"McCarty, Matt",Korn Ferry Tour,150,0,56.0,-1,0.029,2025_02_17_07_20_48_PM_EST
+"Coody, Pierceson",PGA Tour,151,0,160.0,0,0.028,2025_02_17_07_20_48_PM_EST
+"Laporta, Francesco",DP World Tour,152,0,235.0,-2,0.026,2025_02_17_07_20_48_PM_EST
+"Hoey, Rico",PGA Tour,153,0,130.0,-2,0.026,2025_02_17_07_20_48_PM_EST
+"Cummins, Quade",Korn Ferry Tour,154,0,262.0,0,0.018,2025_02_17_07_20_48_PM_EST
+"Griffin, Lanto",PGA Tour,155,0,250.0,4,0.012,2025_02_17_07_20_48_PM_EST
+"Hirata, Kensei",Other Tours,156,0,104.0,-1,0.007,2025_02_17_07_20_48_PM_EST
+"Parry, John",DP World Tour,157,0,110.0,0,0.001,2025_02_17_07_20_48_PM_EST
+"Van Rooyen, Erik",PGA Tour,158,0,88.0,-1,0.0,2025_02_17_07_20_48_PM_EST
+"Lawrence, Thriston",DP World Tour,159,0,57.0,-1,-0.005,2025_02_17_07_20_48_PM_EST
+"Docherty, Alistair",Korn Ferry Tour,160,0,215.0,0,-0.008,2025_02_17_07_20_48_PM_EST
+"Phillips, Chandler",PGA Tour,161,0,158.0,-1,-0.016,2025_02_17_07_20_48_PM_EST
+"Pieters, Thomas",LIV Golf,162,17,389.0,-3,-0.018,2025_02_17_07_20_48_PM_EST
+"Campbell, Ben",Other Tours,163,6,146.0,1,-0.028,2025_02_17_07_20_48_PM_EST
+"Noh, Seung-Yul",Korn Ferry Tour,164,-1,314.0,-1,-0.032,2025_02_17_07_20_48_PM_EST
+"Nakajima, Keita",DP World Tour,165,-1,133.0,4,-0.032,2025_02_17_07_20_48_PM_EST
+"Johnson, Zach",PGA Tour,166,-1,326.0,-5,-0.036,2025_02_17_07_20_48_PM_EST
+"Migliozzi, Guido",DP World Tour,167,-1,136.0,-2,-0.038,2025_02_17_07_20_48_PM_EST
+"Johnson, Dustin",LIV Golf,168,-6,,0,-0.046,2025_02_17_07_20_48_PM_EST
+"Van Tonder, Daniel",Other Tours,169,12,171.0,5,-0.058,2025_02_17_07_20_48_PM_EST
+"Luiten, Joost",DP World Tour,170,-2,229.0,1,-0.063,2025_02_17_07_20_48_PM_EST
+"Ventura, Kristoffer",Korn Ferry Tour,171,-1,191.0,1,-0.071,2025_02_17_07_20_48_PM_EST
+"Schmid, Matthias",PGA Tour,172,-1,114.0,1,-0.071,2025_02_17_07_20_48_PM_EST
+"Gooch, Talor",LIV Golf,173,-51,,0,-0.075,2025_02_17_07_20_48_PM_EST
+"Schenk, Adam",PGA Tour,174,-2,106.0,-1,-0.082,2025_02_17_07_20_48_PM_EST
+"Knapp, Jake",PGA Tour,175,41,97.0,5,-0.085,2025_02_17_07_20_48_PM_EST
+"Vincent, Scott",Other Tours,176,-3,419.0,0,-0.085,2025_02_17_07_20_48_PM_EST
+"Ferguson, Ewen",DP World Tour,177,-3,148.0,0,-0.108,2025_02_17_07_20_48_PM_EST
+"Simpson, Webb",PGA Tour,178,-3,342.0,-2,-0.114,2025_02_17_07_20_48_PM_EST
+"Meissner, Mitchell",Korn Ferry Tour,179,-3,320.0,0,-0.12,2025_02_17_07_20_48_PM_EST
+"Schwartzel, Charl",LIV Golf,180,25,400.0,-1,-0.121,2025_02_17_07_20_48_PM_EST
+"Fitzpatrick, Alex",DP World Tour,181,-4,179.0,0,-0.122,2025_02_17_07_20_48_PM_EST
+"Sullivan, Andy",DP World Tour,182,-4,199.0,1,-0.126,2025_02_17_07_20_48_PM_EST
+"Lindell, Oliver",Challenge Tour,183,-3,308.0,-1,-0.132,2025_02_17_07_20_48_PM_EST
+"Saddier, Adrien",DP World Tour,184,-2,231.0,3,-0.144,2025_02_17_07_20_48_PM_EST
+"Ayora, Angel",DP World Tour,185,-2,180.0,3,-0.153,2025_02_17_07_20_48_PM_EST
+"Norlander, Henrik",PGA Tour,186,-2,209.0,-2,-0.16,2025_02_17_07_20_48_PM_EST
+"Hoshino, Rikuya",DP World Tour,187,-2,162.0,0,-0.164,2025_02_17_07_20_48_PM_EST
+"Waring, Paul",DP World Tour,188,-2,108.0,3,-0.164,2025_02_17_07_20_48_PM_EST
+"Thorbjornsen, Michael",PGA Tour,189,-2,189.0,2,-0.165,2025_02_17_07_20_48_PM_EST
+"Grillo, Emiliano",PGA Tour,190,-2,121.0,-3,-0.169,2025_02_17_07_20_48_PM_EST
+"Lamprecht, Christo",Korn Ferry Tour,191,-2,246.0,1,-0.171,2025_02_17_07_20_48_PM_EST
+"Kizzire, Patton",PGA Tour,192,-2,119.0,1,-0.185,2025_02_17_07_20_48_PM_EST
+"Chatfield, Davis",Korn Ferry Tour,193,-2,324.0,-2,-0.189,2025_02_17_07_20_48_PM_EST
+"Kohles, Ben",PGA Tour,194,-2,140.0,-1,-0.191,2025_02_17_07_20_48_PM_EST
+"Stricker, Steve",PGA TOUR Champions,195,-2,,0,-0.194,2025_02_17_07_20_48_PM_EST
+"Bjork, Alexander",DP World Tour,196,-2,185.0,3,-0.195,2025_02_17_07_20_48_PM_EST
+"Lashley, Nate",PGA Tour,197,-2,211.0,-2,-0.197,2025_02_17_07_20_48_PM_EST
+"Stone, Brandon",DP World Tour,198,-2,273.0,-1,-0.197,2025_02_17_07_20_48_PM_EST
+"Li, Haotong",DP World Tour,199,-2,153.0,1,-0.205,2025_02_17_07_20_48_PM_EST
+"Dahmen, Joel",PGA Tour,200,-2,213.0,0,-0.207,2025_02_17_07_20_48_PM_EST
+"Castillo, Ricky",Korn Ferry Tour,201,-2,238.0,1,-0.208,2025_02_17_07_20_48_PM_EST
+"Pavan, Andrea",DP World Tour,202,-2,294.0,-4,-0.221,2025_02_17_07_20_48_PM_EST
+"List, Luke",PGA Tour,203,-2,134.0,-2,-0.223,2025_02_17_07_20_48_PM_EST
+"Wu, Dylan",PGA Tour,204,-2,226.0,-2,-0.234,2025_02_17_07_20_48_PM_EST
+"Lee, Kyounghoon",PGA Tour,205,-1,154.0,-1,-0.237,2025_02_17_07_20_48_PM_EST
+"Gotterup, Chris",PGA Tour,206,0,207.0,-1,-0.241,2025_02_17_07_20_48_PM_EST
+"Hisatsune, Ryo",PGA Tour,207,0,117.0,-1,-0.241,2025_02_17_07_20_48_PM_EST
+"Howell III, Charles",LIV Golf,208,12,,0,-0.243,2025_02_17_07_20_48_PM_EST
+"Shelton, Robby",PGA Tour,209,-1,267.0,0,-0.243,2025_02_17_07_20_48_PM_EST
+"Hillier, Daniel",DP World Tour,210,-1,135.0,0,-0.25,2025_02_17_07_20_48_PM_EST
+"Imahira, Shugo",Other Tours,211,0,224.0,-1,-0.254,2025_02_17_07_20_48_PM_EST
+"Catlin, John",Other Tours,212,0,129.0,4,-0.265,2025_02_17_07_20_48_PM_EST
+"Garnett, Brice",PGA Tour,213,0,187.0,-1,-0.267,2025_02_17_07_20_48_PM_EST
+"Bramlett, Joseph",PGA Tour,214,0,315.0,-3,-0.269,2025_02_17_07_20_48_PM_EST
+"Robinson-Thompson, Brandon",DP World Tour,215,0,193.0,0,-0.27,2025_02_17_07_20_48_PM_EST
+"Springer, Hayden",PGA Tour,216,1,147.0,2,-0.278,2025_02_17_07_20_48_PM_EST
+"Bairstow, Sam",DP World Tour,217,1,178.0,0,-0.28,2025_02_17_07_20_48_PM_EST
+"Wenyi, Ding",DP World Tour,218,3,,0,-0.296,2025_02_17_07_20_48_PM_EST
+"Bryan, Wesley",PGA Tour,219,3,218.0,-1,-0.298,2025_02_17_07_20_48_PM_EST
+"Ramey, Chad",PGA Tour,220,3,304.0,-4,-0.3,2025_02_17_07_20_48_PM_EST
+"Dumont de Chassart, Adrien",PGA Tour,221,3,212.0,-1,-0.301,2025_02_17_07_20_48_PM_EST
+"Steele, Brendan",LIV Golf,222,12,,0,-0.301,2025_02_17_07_20_48_PM_EST
+"Martin, Ben",PGA Tour,223,2,334.0,-10,-0.302,2025_02_17_07_20_48_PM_EST
+"Pavon, Matthieu",PGA Tour,224,18,42.0,-1,-0.306,2025_02_17_07_20_48_PM_EST
+"Shimizu, Taisei",Other Tours,225,1,292.0,-3,-0.307,2025_02_17_07_20_48_PM_EST
+"Blair, Zac",PGA Tour,226,1,177.0,-2,-0.312,2025_02_17_07_20_48_PM_EST
+"Suber, Jackson",Korn Ferry Tour,227,1,190.0,0,-0.32,2025_02_17_07_20_48_PM_EST
+"Grace, Branden",LIV Golf,228,-9,,0,-0.323,2025_02_17_07_20_48_PM_EST
+"Schaper, Jayden",DP World Tour,229,0,259.0,-1,-0.326,2025_02_17_07_20_48_PM_EST
+"Jang, Yubin",Other Tours,230,14,145.0,1,-0.328,2025_02_17_07_20_48_PM_EST
+"Kinoshita, Ryosuke",Other Tours,231,-1,278.0,0,-0.33,2025_02_17_07_20_48_PM_EST
+"Na, Kevin",LIV Golf,232,27,,0,-0.331,2025_02_17_07_20_48_PM_EST
+"Nienaber, Wilco",Challenge Tour,233,111,288.0,138,-0.337,2025_02_17_07_20_48_PM_EST
+"Brown, Daniel",DP World Tour,234,-2,125.0,0,-0.352,2025_02_17_07_20_48_PM_EST
+"Salinda, Isaiah",Korn Ferry Tour,235,-2,275.0,-2,-0.357,2025_02_17_07_20_48_PM_EST
+"Coussaud, Ugo",DP World Tour,236,-1,216.0,0,-0.361,2025_02_17_07_20_48_PM_EST
+"Cink, Stewart",PGA TOUR Champions,237,-1,375.0,-1,-0.362,2025_02_17_07_20_48_PM_EST
+"Hardy, Nick",PGA Tour,238,-1,299.0,-2,-0.367,2025_02_17_07_20_48_PM_EST
+"Shipley, Neal",PGA Tour,239,-1,227.0,0,-0.367,2025_02_17_07_20_48_PM_EST
+"LaCroix, Frederic",DP World Tour,240,-1,174.0,-1,-0.369,2025_02_17_07_20_48_PM_EST
+"Stenson, Henrik",LIV Golf,241,42,,0,-0.372,2025_02_17_07_20_48_PM_EST
+"Lipsky, David",PGA Tour,242,-2,161.0,0,-0.373,2025_02_17_07_20_48_PM_EST
+"Chacarra, Eugenio",Other Tours,243,-2,305.0,-1,-0.375,2025_02_17_07_20_48_PM_EST
+"Varner III, Harold",LIV Golf,244,50,,0,-0.375,2025_02_17_07_20_48_PM_EST
+"Tway, Kevin",PGA Tour,245,-2,279.0,3,-0.382,2025_02_17_07_20_48_PM_EST
+"Gutierrez, Ivan Cantero",DP World Tour,246,-1,257.0,2,-0.386,2025_02_17_07_20_48_PM_EST
+"Lebioda, Hank",Korn Ferry Tour,247,-1,243.0,0,-0.389,2025_02_17_07_20_48_PM_EST
+"Otaegui, Adrian",DP World Tour,248,-1,192.0,-3,-0.389,2025_02_17_07_20_48_PM_EST
+"Kokrak, Jason",LIV Golf,249,-46,,0,-0.393,2025_02_17_07_20_48_PM_EST
+"Jamieson, Scott",DP World Tour,250,-2,289.0,3,-0.394,2025_02_17_07_20_48_PM_EST
+"Horsfield, Sam",LIV Golf,251,47,,0,-0.396,2025_02_17_07_20_48_PM_EST
+"Ramsay, Richie",DP World Tour,252,-3,264.0,1,-0.397,2025_02_17_07_20_48_PM_EST
+"Kim, Seonghyeon",PGA Tour,253,-2,163.0,1,-0.4,2025_02_17_07_20_48_PM_EST
+"Alker, Steven",PGA TOUR Champions,254,-2,,0,-0.4,2025_02_17_07_20_48_PM_EST
+"Mullinax, Trey",PGA Tour,255,-2,450.0,-3,-0.404,2025_02_17_07_20_48_PM_EST
+"Dean, Joe",DP World Tour,256,-2,139.0,1,-0.41,2025_02_17_07_20_48_PM_EST
+"Paul, Jeremy",Korn Ferry Tour,257,-2,344.0,-1,-0.413,2025_02_17_07_20_48_PM_EST
+"Redman, Doc",Korn Ferry Tour,258,-2,387.0,2,-0.414,2025_02_17_07_20_48_PM_EST
+"Schneider, Marcel",DP World Tour,259,-2,336.0,-2,-0.418,2025_02_17_07_20_48_PM_EST
+"Suh, Justin",PGA Tour,260,-2,285.0,-5,-0.424,2025_02_17_07_20_48_PM_EST
+"Micheluzzi, David",DP World Tour,261,-1,194.0,3,-0.437,2025_02_17_07_20_48_PM_EST
+"Norrman, Vincent",PGA Tour,262,-1,233.0,-2,-0.444,2025_02_17_07_20_48_PM_EST
+"Kimsey, Nathan",DP World Tour,263,0,445.0,-5,-0.45,2025_02_17_07_20_48_PM_EST
+"James, Ben",Amateur Events,264,-33,,0,-0.452,2025_02_17_07_20_48_PM_EST
+"Jones, Matt",LIV Golf,265,-15,,0,-0.453,2025_02_17_07_20_48_PM_EST
+"Wu, Brandon",PGA Tour,266,-2,322.0,-5,-0.454,2025_02_17_07_20_48_PM_EST
+"Moore, Ryan",PGA Tour,267,-2,293.0,-5,-0.457,2025_02_17_07_20_48_PM_EST
+"Johnston, Andrew",DP World Tour,268,-2,405.0,-2,-0.46,2025_02_17_07_20_48_PM_EST
+"Chappell, Kevin",PGA Tour,269,-2,332.0,-1,-0.465,2025_02_17_07_20_48_PM_EST
+"Surratt, Caleb",LIV Golf,270,8,312.0,2,-0.467,2025_02_17_07_20_48_PM_EST
+"Walker, Danny",Korn Ferry Tour,271,-3,303.0,-1,-0.469,2025_02_17_07_20_48_PM_EST
+"Hill, Calum",DP World Tour,272,-3,265.0,-1,-0.469,2025_02_17_07_20_48_PM_EST
+"Kaewkanjana, Sadom",Other Tours,273,-3,321.0,9,-0.47,2025_02_17_07_20_48_PM_EST
+"Rosenmueller, Thomas",Korn Ferry Tour,274,-3,196.0,-1,-0.476,2025_02_17_07_20_48_PM_EST
+"Fisk, Steven",Korn Ferry Tour,275,-3,173.0,-1,-0.478,2025_02_17_07_20_48_PM_EST
+"Summerhays, Daniel",Korn Ferry Tour,276,-3,360.0,-2,-0.479,2025_02_17_07_20_48_PM_EST
+"Smyth, Travis",Other Tours,277,-3,280.0,-1,-0.479,2025_02_17_07_20_48_PM_EST
+"Higa, Kazuki",Other Tours,278,-3,302.0,1,-0.479,2025_02_17_07_20_48_PM_EST
+"Streelman, Kevin",PGA Tour,279,-3,208.0,2,-0.485,2025_02_17_07_20_48_PM_EST
+"Del Rey, Alejandro",DP World Tour,280,-3,157.0,1,-0.49,2025_02_17_07_20_48_PM_EST
+"Vilips, Karl",Korn Ferry Tour,281,-2,263.0,3,-0.49,2025_02_17_07_20_48_PM_EST
+"Peterson, Paul",Korn Ferry Tour,282,-2,223.0,2,-0.492,2025_02_17_07_20_48_PM_EST
+"Wiesberger, Bernd",DP World Tour,283,-2,225.0,1,-0.495,2025_02_17_07_20_48_PM_EST
+"Tabuena, Miguel",Other Tours,284,-2,286.0,0,-0.501,2025_02_17_07_20_48_PM_EST
+"Syme, Connor",DP World Tour,285,-1,200.0,-1,-0.503,2025_02_17_07_20_48_PM_EST
+"Couvra, Martin",Challenge Tour,286,-1,271.0,0,-0.505,2025_02_17_07_20_48_PM_EST
+"Higgo, Garrick",PGA Tour,287,-1,310.0,-2,-0.507,2025_02_17_07_20_48_PM_EST
+"Koivun, Jackson",Amateur Events,288,-1,,0,-0.51,2025_02_17_07_20_48_PM_EST
+"Kaneko, Kota",Other Tours,289,-1,368.0,0,-0.517,2025_02_17_07_20_48_PM_EST
+"Knox, Russell",Korn Ferry Tour,290,-1,374.0,7,-0.52,2025_02_17_07_20_48_PM_EST
+"Harrington, Padraig",PGA TOUR Champions,291,-1,371.0,-4,-0.521,2025_02_17_07_20_48_PM_EST
+"Higgs, Harry",PGA Tour,292,-1,170.0,0,-0.526,2025_02_17_07_20_48_PM_EST
+"Brown, Hamish",Challenge Tour,293,-1,232.0,0,-0.527,2025_02_17_07_20_48_PM_EST
+"Lemke, Niklas",Challenge Tour,294,-1,465.0,-2,-0.534,2025_02_17_07_20_48_PM_EST
+"Wolff, Matthew",LIV Golf,295,-85,,0,-0.536,2025_02_17_07_20_48_PM_EST
+"Scrivener, Jason",DP World Tour,296,-1,281.0,2,-0.537,2025_02_17_07_20_48_PM_EST
+"Bradbury, Dan",DP World Tour,297,-1,175.0,-1,-0.548,2025_02_17_07_20_48_PM_EST
+"Laird, Martin",PGA Tour,298,-1,272.0,5,-0.55,2025_02_17_07_20_48_PM_EST
+"Gordon, Will",PGA Tour,299,0,319.0,0,-0.56,2025_02_17_07_20_48_PM_EST
+"Snedeker, Brandt",PGA Tour,300,0,395.0,-1,-0.562,2025_02_17_07_20_48_PM_EST
+"Mouw, William",Korn Ferry Tour,301,0,182.0,-1,-0.568,2025_02_17_07_20_48_PM_EST
+"Nyholm, Pontus",Korn Ferry Tour,302,0,417.0,-6,-0.57,2025_02_17_07_20_48_PM_EST
+"Tosti, Alejandro",PGA Tour,303,0,205.0,-3,-0.576,2025_02_17_07_20_48_PM_EST
+"Bauchou, Zachary",Korn Ferry Tour,304,0,290.0,3,-0.578,2025_02_17_07_20_48_PM_EST
+"Lee, Chieh-Po",Other Tours,305,-43,242.0,-1,-0.587,2025_02_17_07_20_48_PM_EST
+"Vaillant, Tom",DP World Tour,306,-1,329.0,0,-0.587,2025_02_17_07_20_48_PM_EST
+"Gonzalez, Emilio",Korn Ferry Tour,307,-1,366.0,-2,-0.587,2025_02_17_07_20_48_PM_EST
+"Duncan, Tyler",PGA Tour,308,-1,337.0,-1,-0.594,2025_02_17_07_20_48_PM_EST
+"Whitney, Tom",PGA Tour,309,-1,405.0,-9,-0.598,2025_02_17_07_20_48_PM_EST
+"Kruyswijk, Jacques",DP World Tour,310,13,361.0,2,-0.603,2025_02_17_07_20_48_PM_EST
+"Dickson, Taylor",Korn Ferry Tour,311,-2,184.0,-3,-0.605,2025_02_17_07_20_48_PM_EST
+"NeSmith, Matthew",PGA Tour,312,0,276.0,-1,-0.612,2025_02_17_07_20_48_PM_EST
+"Widing, Tim",Korn Ferry Tour,313,0,168.0,0,-0.614,2025_02_17_07_20_48_PM_EST
+"Lamb, Rick",Korn Ferry Tour,314,0,466.0,1,-0.617,2025_02_17_07_20_48_PM_EST
+"Morrison, Tommy",Amateur Events,315,0,,0,-0.624,2025_02_17_07_20_48_PM_EST
+"Crocker, Sean",DP World Tour,316,0,253.0,-1,-0.626,2025_02_17_07_20_48_PM_EST
+"Goodwin, Noah",Korn Ferry Tour,317,0,367.0,-1,-0.627,2025_02_17_07_20_48_PM_EST
+"Elvira Mijares, Ignacio",DP World Tour,318,0,197.0,-1,-0.631,2025_02_17_07_20_48_PM_EST
+"Kraft, Kelly",PGA Tour,319,0,399.0,-6,-0.634,2025_02_17_07_20_48_PM_EST
+"Semikawa, Taiga",Other Tours,320,0,282.0,-1,-0.636,2025_02_17_07_20_48_PM_EST
+"Thornberry, Braden",Korn Ferry Tour,321,0,274.0,0,-0.638,2025_02_17_07_20_48_PM_EST
+"Zanotti, Fabrizio",DP World Tour,322,0,307.0,2,-0.64,2025_02_17_07_20_48_PM_EST
+"Lee, Richard Taehoon",Other Tours,323,1,228.0,0,-0.641,2025_02_17_07_20_48_PM_EST
+"Reitan, Kristoffer",Challenge Tour,324,1,359.0,6,-0.645,2025_02_17_07_20_48_PM_EST
+"Lee, Seungtaek",Other Tours,325,1,349.0,-1,-0.646,2025_02_17_07_20_48_PM_EST
+"Von Dellingshausen, Nicolai",DP World Tour,326,1,424.0,-3,-0.65,2025_02_17_07_20_48_PM_EST
+"Gilligan, Ian",Amateur Events,327,2,,0,-0.654,2025_02_17_07_20_48_PM_EST
+"Suri, Julian",Korn Ferry Tour,328,2,470.0,-5,-0.654,2025_02_17_07_20_48_PM_EST
+"Mansell, Richard",DP World Tour,329,2,245.0,-3,-0.656,2025_02_17_07_20_48_PM_EST
+"Reavie, Chez",PGA Tour,330,2,340.0,-2,-0.659,2025_02_17_07_20_48_PM_EST
+"Champ, Cameron",PGA Tour,331,2,431.0,-1,-0.662,2025_02_17_07_20_48_PM_EST
+"Watson, Bubba",LIV Golf,332,38,,0,-0.664,2025_02_17_07_20_48_PM_EST
+"Hadley, Chesson",PGA Tour,333,1,325.0,3,-0.665,2025_02_17_07_20_48_PM_EST
+"Montgomery, Taylor",PGA Tour,334,1,244.0,2,-0.666,2025_02_17_07_20_48_PM_EST
+"Winther, Jeff",DP World Tour,335,1,234.0,4,-0.666,2025_02_17_07_20_48_PM_EST
+"Westmoreland, Kyle",Korn Ferry Tour,336,1,254.0,2,-0.67,2025_02_17_07_20_48_PM_EST
+"Horikawa, Mikumu",Other Tours,337,1,394.0,-3,-0.672,2025_02_17_07_20_48_PM_EST
+"Schniederjans, Ollie",Korn Ferry Tour,338,1,269.0,1,-0.673,2025_02_17_07_20_48_PM_EST
+"VanDerLaan, John",Korn Ferry Tour,339,1,497.0,-7,-0.684,2025_02_17_07_20_48_PM_EST
+"McDowell, Graeme",LIV Golf,340,1,,0,-0.691,2025_02_17_07_20_48_PM_EST
+"Green, Gavin",DP World Tour,341,1,339.0,-4,-0.693,2025_02_17_07_20_48_PM_EST
+"Kinhult, Marcus",DP World Tour,342,1,266.0,2,-0.695,2025_02_17_07_20_48_PM_EST
+"Lee, Junghwan",Other Tours,343,2,355.0,0,-0.698,2025_02_17_07_20_48_PM_EST
+"Cone, Trevor",Korn Ferry Tour,344,3,382.0,-2,-0.7,2025_02_17_07_20_48_PM_EST
+"Premlall, Yurav",Other Tours,345,1,473.0,4,-0.705,2025_02_17_07_20_48_PM_EST
+"Holt, Ian",Korn Ferry Tour,346,3,,0,-0.707,2025_02_17_07_20_48_PM_EST
+"Jarvis, Casey",DP World Tour,347,1,306.0,-1,-0.709,2025_02_17_07_20_48_PM_EST
+"Paul, Yannik",DP World Tour,348,2,204.0,1,-0.71,2025_02_17_07_20_48_PM_EST
+"Armitage, Marcus",DP World Tour,349,2,210.0,-2,-0.714,2025_02_17_07_20_48_PM_EST
+"Van Paris, Jackson",Amateur Events,350,2,,0,-0.715,2025_02_17_07_20_48_PM_EST
+"Tuten, Shad",Korn Ferry Tour,351,2,482.0,-8,-0.718,2025_02_17_07_20_48_PM_EST
+"Cockerill, Aaron",DP World Tour,352,2,300.0,-2,-0.733,2025_02_17_07_20_48_PM_EST
+"Potgieter, Aldrich",Korn Ferry Tour,353,2,198.0,0,-0.736,2025_02_17_07_20_48_PM_EST
+"McGirt, William",PGA Tour,354,2,,0,-0.736,2025_02_17_07_20_48_PM_EST
+"Poulter, Ian",LIV Golf,355,19,,0,-0.74,2025_02_17_07_20_48_PM_EST
+"Kobori, Kazuma",Other Tours,356,1,370.0,0,-0.74,2025_02_17_07_20_48_PM_EST
+"Coody, Parker",PGA Tour,357,1,385.0,-2,-0.74,2025_02_17_07_20_48_PM_EST
+"Johnston, Ryggs",DP World Tour,358,1,295.0,0,-0.741,2025_02_17_07_20_48_PM_EST
+"Diaz, Roberto",Korn Ferry Tour,359,1,494.0,-3,-0.743,2025_02_17_07_20_48_PM_EST
+"Wilson, Andrew",DP World Tour,360,1,386.0,1,-0.744,2025_02_17_07_20_48_PM_EST
+"Pepperell, Eddie",DP World Tour,361,62,384.0,22,-0.745,2025_02_17_07_20_48_PM_EST
+"Dou, Zecheng",Korn Ferry Tour,362,0,475.0,-4,-0.747,2025_02_17_07_20_48_PM_EST
+"Sato, Taihei",Other Tours,363,0,442.0,-3,-0.752,2025_02_17_07_20_48_PM_EST
+"Pereira, Mito",LIV Golf,364,-36,,0,-0.754,2025_02_17_07_20_48_PM_EST
+"Clements, Todd",DP World Tour,365,-1,297.0,-3,-0.756,2025_02_17_07_20_48_PM_EST
+"Kozuma, Jinichiro",Other Tours,366,-1,440.0,5,-0.756,2025_02_17_07_20_48_PM_EST
+"Valimaki, Sami",PGA Tour,367,-1,164.0,3,-0.759,2025_02_17_07_20_48_PM_EST
+"Mazzoli, Stefano",Other Tours,368,7,397.0,-2,-0.76,2025_02_17_07_20_48_PM_EST
+"Molinari, Francesco",PGA Tour,369,-2,,0,-0.765,2025_02_17_07_20_48_PM_EST
+"Taylor, Ben",PGA Tour,370,-2,,0,-0.772,2025_02_17_07_20_48_PM_EST
+"Riedel, Matthew",Korn Ferry Tour,371,-2,,0,-0.775,2025_02_17_07_20_48_PM_EST
+"Southgate, Matthew",DP World Tour,372,-1,330.0,-4,-0.776,2025_02_17_07_20_48_PM_EST
+"Aiken, Thomas",DP World Tour,373,-1,407.0,5,-0.778,2025_02_17_07_20_48_PM_EST
+"Van Driel, Darius",DP World Tour,374,-1,261.0,0,-0.781,2025_02_17_07_20_48_PM_EST
+"Crowe, Trace",PGA Tour,375,1,256.0,-1,-0.784,2025_02_17_07_20_48_PM_EST
+"Ravetto, David",DP World Tour,376,1,176.0,1,-0.786,2025_02_17_07_20_48_PM_EST
+"Vincent, Kieran",Other Tours,377,1,380.0,-3,-0.79,2025_02_17_07_20_48_PM_EST
+"Law, David",DP World Tour,378,-68,402.0,-2,-0.792,2025_02_17_07_20_48_PM_EST
+"Maguire, MJ",Other Tours,379,0,333.0,-1,-0.792,2025_02_17_07_20_48_PM_EST
+"Todd, Brendon",PGA Tour,380,0,128.0,2,-0.799,2025_02_17_07_20_48_PM_EST
+"Rutherford, Jamie",Challenge Tour,381,69,331.0,14,-0.801,2025_02_17_07_20_48_PM_EST
+"Hidalgo, Angel",DP World Tour,382,-1,183.0,1,-0.802,2025_02_17_07_20_48_PM_EST
+"Katsuragawa, Yuto",DP World Tour,383,-1,270.0,-1,-0.805,2025_02_17_07_20_48_PM_EST
+"Song, Younghan",Other Tours,384,-1,313.0,-3,-0.805,2025_02_17_07_20_48_PM_EST
+"Donald, Luke",DP World Tour,385,-1,,0,-0.805,2025_02_17_07_20_48_PM_EST
+"Kieffer, Maximilian",DP World Tour,386,-1,356.0,-4,-0.811,2025_02_17_07_20_48_PM_EST
+"Ritchie, JC",Challenge Tour,387,68,,0,-0.812,2025_02_17_07_20_48_PM_EST
+"Gabrelcik, Nick",Korn Ferry Tour,388,-2,499.0,0,-0.814,2025_02_17_07_20_48_PM_EST
+"Skinns, David",PGA Tour,389,-2,241.0,-4,-0.815,2025_02_17_07_20_48_PM_EST
+"Kang, Kyungnam",Other Tours,390,-2,432.0,-10,-0.818,2025_02_17_07_20_48_PM_EST
+"Gouveia, Ricardo",DP World Tour,391,-2,353.0,1,-0.822,2025_02_17_07_20_48_PM_EST
+"Hitt, Austin",Korn Ferry Tour,392,-2,438.0,-2,-0.825,2025_02_17_07_20_48_PM_EST
+"Ford, David",Amateur Events,393,-2,,0,-0.827,2025_02_17_07_20_48_PM_EST
+"Teater, Josh",PGA Tour,394,-2,311.0,0,-0.828,2025_02_17_07_20_48_PM_EST
+"Luck, Curtis",Korn Ferry Tour,395,-2,328.0,-2,-0.828,2025_02_17_07_20_48_PM_EST
+"Sharma, Shubhankar",DP World Tour,396,-2,252.0,-3,-0.835,2025_02_17_07_20_48_PM_EST
+"Langer, Bernhard",PGA TOUR Champions,397,-2,,0,-0.838,2025_02_17_07_20_48_PM_EST
+"Kjettrup, Frederik",Other Tours,398,-87,250.0,0,-0.845,2025_02_17_07_20_48_PM_EST
+"Gomez, Fabian",Korn Ferry Tour,399,-3,484.0,-5,-0.845,2025_02_17_07_20_48_PM_EST
+"Brennan, Michael",Other Tours,400,-3,,0,-0.849,2025_02_17_07_20_48_PM_EST
+"Korhonen, Mikko",DP World Tour,401,-3,,0,-0.856,2025_02_17_07_20_48_PM_EST
+"Els, Ernie",PGA TOUR Champions,402,8,,0,-0.856,2025_02_17_07_20_48_PM_EST
+"Dantorp, Jens",DP World Tour,403,-4,350.0,-3,-0.859,2025_02_17_07_20_48_PM_EST
+"Lindheim, Nicholas",PGA Tour,404,-4,,0,-0.859,2025_02_17_07_20_48_PM_EST
+"Stanger, Jimmy",PGA Tour,405,-4,343.0,-2,-0.862,2025_02_17_07_20_48_PM_EST
+"Ishikawa, Ryo",Other Tours,406,-4,220.0,-2,-0.863,2025_02_17_07_20_48_PM_EST
+"Ikemura, Tomoyo",Other Tours,407,-4,444.0,0,-0.864,2025_02_17_07_20_48_PM_EST
+"Sloan, Roger",PGA Tour,408,-4,365.0,-5,-0.866,2025_02_17_07_20_48_PM_EST
+"Thomas, Rayhan",Amateur Events,409,-4,,0,-0.866,2025_02_17_07_20_48_PM_EST
+"Willett, Danny",PGA Tour,410,-4,422.0,-6,-0.874,2025_02_17_07_20_48_PM_EST
+"Williams, Robin",DP World Tour,411,-4,221.0,-2,-0.878,2025_02_17_07_20_48_PM_EST
+"Maguire, Jack",Korn Ferry Tour,412,-4,456.0,-5,-0.88,2025_02_17_07_20_48_PM_EST
+"Steelman, Ross",Korn Ferry Tour,413,-4,393.0,-3,-0.881,2025_02_17_07_20_48_PM_EST
+"Lombard, Zander",DP World Tour,414,0,268.0,0,-0.881,2025_02_17_07_20_48_PM_EST
+"Winstead, Trey",Korn Ferry Tour,415,-4,338.0,-1,-0.882,2025_02_17_07_20_48_PM_EST
+"Kim, Minkyu",Other Tours,416,-4,236.0,-1,-0.885,2025_02_17_07_20_48_PM_EST
+"Senior, Jack",Challenge Tour,417,-4,401.0,-3,-0.887,2025_02_17_07_20_48_PM_EST
+"Vogel, T.J.",Korn Ferry Tour,418,-4,,0,-0.89,2025_02_17_07_20_48_PM_EST
+"Steinlechner, Maximilian",Challenge Tour,419,19,397.0,16,-0.89,2025_02_17_07_20_48_PM_EST
+"Ballester, Jose Luis",Amateur Events,420,-5,,0,-0.895,2025_02_17_07_20_48_PM_EST
+"Larrazabal, Pablo",DP World Tour,421,-5,218.0,4,-0.895,2025_02_17_07_20_48_PM_EST
+"Siem, Marcel",DP World Tour,422,-5,201.0,2,-0.9,2025_02_17_07_20_48_PM_EST
+"Tarren, Callum",PGA Tour,423,-5,447.0,-4,-0.901,2025_02_17_07_20_48_PM_EST
+"Kim, Hanbyeol",Other Tours,424,-5,,0,-0.901,2025_02_17_07_20_48_PM_EST
+"Kho, Taichi",Other Tours,425,-5,481.0,-6,-0.902,2025_02_17_07_20_48_PM_EST
+"Rottluff, Max",DP World Tour,426,-5,403.0,-6,-0.902,2025_02_17_07_20_48_PM_EST
+"Forrest, Grant",DP World Tour,427,-5,217.0,3,-0.91,2025_02_17_07_20_48_PM_EST
+"Snyman, Ian",Other Tours,428,-4,491.0,0,-0.918,2025_02_17_07_20_48_PM_EST
+"Schmidt, Ben",Challenge Tour,429,-4,478.0,11,-0.919,2025_02_17_07_20_48_PM_EST
+"Valdes, Brendan",Amateur Events,430,-4,,0,-0.923,2025_02_17_07_20_48_PM_EST
+"Young, Daniel",Challenge Tour,431,60,,0,-0.924,2025_02_17_07_20_48_PM_EST
+"Iwata, Hiroshi",Other Tours,432,-5,287.0,4,-0.925,2025_02_17_07_20_48_PM_EST
+"Xiong, Norman",PGA Tour,433,-5,378.0,-7,-0.93,2025_02_17_07_20_48_PM_EST
+"Schwab, Matthias",DP World Tour,434,-5,,0,-0.934,2025_02_17_07_20_48_PM_EST
+"Alexander, Tyson",PGA Tour,435,-5,429.0,-5,-0.934,2025_02_17_07_20_48_PM_EST
+"Dougherty, Kevin",PGA Tour,436,-5,,0,-0.935,2025_02_17_07_20_48_PM_EST
+"Prateeptienchai, Suteepat",Other Tours,437,-5,239.0,6,-0.937,2025_02_17_07_20_48_PM_EST
+"Frittelli, Dylan",DP World Tour,438,-5,327.0,-2,-0.937,2025_02_17_07_20_48_PM_EST
+"Weiler, Joe",Korn Ferry Tour,439,-5,427.0,-4,-0.944,2025_02_17_07_20_48_PM_EST
+"Hahn, James",PGA Tour,440,-5,,0,-0.944,2025_02_17_07_20_48_PM_EST
+"Molinari, Edoardo",DP World Tour,441,-5,,0,-0.946,2025_02_17_07_20_48_PM_EST
+"Crick, Brandon",Korn Ferry Tour,442,-5,381.0,-2,-0.947,2025_02_17_07_20_48_PM_EST
+"Villegas, Camilo",PGA Tour,443,-4,240.0,0,-0.951,2025_02_17_07_20_48_PM_EST
+"Ogiso, Takashi",Other Tours,444,-3,362.0,-3,-0.952,2025_02_17_07_20_48_PM_EST
+"Velo, Kevin",Korn Ferry Tour,445,-3,318.0,-2,-0.958,2025_02_17_07_20_48_PM_EST
+"Aphibarnrat, Kiradech",DP World Tour,446,-3,300.0,1,-0.963,2025_02_17_07_20_48_PM_EST
+"Buckley, Hayden",PGA Tour,447,-3,323.0,0,-0.965,2025_02_17_07_20_48_PM_EST
+"Harkins, Brandon",Korn Ferry Tour,448,-3,,0,-0.966,2025_02_17_07_20_48_PM_EST
+"Pak, John",Korn Ferry Tour,449,-3,258.0,-1,-0.971,2025_02_17_07_20_48_PM_EST
+"Andersen, Mason",Korn Ferry Tour,450,-3,357.0,-4,-0.971,2025_02_17_07_20_48_PM_EST
+"Baddeley, Aaron",PGA Tour,451,-3,354.0,-3,-0.975,2025_02_17_07_20_48_PM_EST
+"Smylie, Elvis",Other Tours,452,-3,202.0,2,-0.976,2025_02_17_07_20_48_PM_EST
+"McCarthy, Dan",Korn Ferry Tour,453,-2,,0,-0.981,2025_02_17_07_20_48_PM_EST
+"Shinkwin, Callum",DP World Tour,454,-2,443.0,-5,-0.983,2025_02_17_07_20_48_PM_EST
+"Werenski, Richy",Korn Ferry Tour,455,-2,472.0,-2,-0.985,2025_02_17_07_20_48_PM_EST
+"Takeyasu, Shunya",Other Tours,456,-2,,0,-0.986,2025_02_17_07_20_48_PM_EST
+"Bateman, Wilson",Korn Ferry Tour,457,-1,,0,-0.994,2025_02_17_07_20_48_PM_EST
+"Purcell, Conor",Challenge Tour,458,-1,297.0,2,-0.996,2025_02_17_07_20_48_PM_EST
+"Robertson, Graeme",Other Tours,459,1,,0,-1.001,2025_02_17_07_20_48_PM_EST
+"Schott, Frederik",DP World Tour,460,-20,412.0,-4,-1.001,2025_02_17_07_20_48_PM_EST
+"Hebert, Benjamin",Challenge Tour,461,-3,426.0,4,-1.004,2025_02_17_07_20_48_PM_EST
+"Ortiz Becerra, Alvaro",Korn Ferry Tour,462,-1,427.0,5,-1.006,2025_02_17_07_20_48_PM_EST
+"Sordet, Clement",DP World Tour,463,0,,0,-1.009,2025_02_17_07_20_48_PM_EST
+"Halvorsen, Andreas",Challenge Tour,464,0,459.0,2,-1.012,2025_02_17_07_20_48_PM_EST
+"Campos, Rafael",PGA Tour,465,0,180.0,0,-1.013,2025_02_17_07_20_48_PM_EST
+"Seiffert, Chase",Korn Ferry Tour,466,0,,0,-1.015,2025_02_17_07_20_48_PM_EST
+"Westwood, Lee",LIV Golf,467,6,,0,-1.016,2025_02_17_07_20_48_PM_EST
+"Lewis, Bryce",Other Tours,468,-1,,0,-1.016,2025_02_17_07_20_48_PM_EST
+"Penge, Marco",DP World Tour,469,0,461.0,-2,-1.021,2025_02_17_07_20_48_PM_EST
+"Ogletree, Andy",LIV Golf,470,20,,0,-1.024,2025_02_17_07_20_48_PM_EST
+"Scott, Sandy",Other Tours,471,-1,,0,-1.028,2025_02_17_07_20_48_PM_EST
+"Khongwatmai, Phachara",Other Tours,472,-1,348.0,8,-1.028,2025_02_17_07_20_48_PM_EST
+"Summerhays, Preston",Amateur Events,473,-1,,0,-1.028,2025_02_17_07_20_48_PM_EST
+"Fisher, Ross",DP World Tour,474,0,460.0,-2,-1.038,2025_02_17_07_20_48_PM_EST
+"Welch, Patrick",Korn Ferry Tour,475,0,,0,-1.041,2025_02_17_07_20_48_PM_EST
+"Bae, Sangmoon",PGA Tour,476,0,,0,-1.044,2025_02_17_07_20_48_PM_EST
+"Hosono, Yusaku",Other Tours,477,0,,0,-1.046,2025_02_17_07_20_48_PM_EST
+"Merritt, Troy",PGA Tour,478,0,358.0,-1,-1.049,2025_02_17_07_20_48_PM_EST
+"Mory, Felix",Challenge Tour,479,7,,0,-1.051,2025_02_17_07_20_48_PM_EST
+"Shogenji, Tatsunori",Other Tours,480,-1,435.0,0,-1.053,2025_02_17_07_20_48_PM_EST
+"Olesen, Jacob Skov",DP World Tour,481,-1,,0,-1.055,2025_02_17_07_20_48_PM_EST
+"Mickelson, Phil",LIV Golf,482,0,,0,-1.055,2025_02_17_07_20_48_PM_EST
+"De Leo, Gregorio",Challenge Tour,483,0,,0,-1.058,2025_02_17_07_20_48_PM_EST
+"Hugo, Jean",Other Tours,484,11,,0,-1.061,2025_02_17_07_20_48_PM_EST
+"Charoenkul, Gunn",Other Tours,485,-4,479.0,6,-1.065,2025_02_17_07_20_48_PM_EST
+"Inamori, Yuki",Other Tours,486,-4,383.0,-1,-1.065,2025_02_17_07_20_48_PM_EST
+"Sherwood, Cole",Korn Ferry Tour,487,-4,,0,-1.066,2025_02_17_07_20_48_PM_EST
+"Sampson Yunhe, Zheng",Other Tours,488,-4,,0,-1.066,2025_02_17_07_20_48_PM_EST
+"Nunez, Augusto",Korn Ferry Tour,489,-4,,0,-1.067,2025_02_17_07_20_48_PM_EST
+"Wang, Jeunghun",Other Tours,490,-3,403.0,12,-1.076,2025_02_17_07_20_48_PM_EST
+"Pulkkanen, Tapio",Challenge Tour,491,-3,413.0,-3,-1.077,2025_02_17_07_20_48_PM_EST
+"Sargent, Gordon",Amateur Events,492,-3,,0,-1.083,2025_02_17_07_20_48_PM_EST
+"Sugiura, Yuta",Other Tours,493,-1,186.0,-1,-1.087,2025_02_17_07_20_48_PM_EST
+"Nemecz, Lukas",DP World Tour,494,-35,463.0,-3,-1.091,2025_02_17_07_20_48_PM_EST
+"Piercy, Scott",PGA Tour,495,-1,,0,-1.092,2025_02_17_07_20_48_PM_EST
+"Green, Richard",PGA TOUR Champions,496,0,,0,-1.1,2025_02_17_07_20_48_PM_EST
+"Akutsu, Mikiya",Other Tours,497,-1,469.0,-5,-1.1,2025_02_17_07_20_48_PM_EST
+"Malnati, Peter",PGA Tour,498,-1,144.0,1,-1.101,2025_02_17_07_20_48_PM_EST
+"Blanchet, Chandler",Korn Ferry Tour,499,0,,0,-1.102,2025_02_17_07_20_48_PM_EST
+"Blaauw, Jacques",Other Tours,500,0,,0,-1.105,2025_02_17_07_20_48_PM_EST
