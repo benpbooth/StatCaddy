@@ -99,7 +99,7 @@ def get_live_leaderboard():
             df["current_pos"] = pd.to_numeric(df["current_pos"], errors="coerce")
             df = df.sort_values(by="current_pos")
         
-        df_fanduel = fetch_github_csv("https://raw.githubusercontent.com/benpbooth/StatCaddy/main/mexico_open_at_vidantaworld_win_american_2025_02_17_04_49_40_PM_EST.csv.csv")
+        df_fanduel = fetch_github_csv("https://raw.githubusercontent.com/benpbooth/StatCaddy/main/mexico_open_at_vidantaworld_win_american_2025_02_17_04_49_40_PM_EST.csv")
 
         if {"player_name", "fanduel_odds"}.issubset(df_fanduel.columns):
             df_fanduel = df_fanduel[["player_name", "fanduel_odds"]]
@@ -130,7 +130,7 @@ def main():
         if page == "Live Leaderboard":
             st.write("### Live Leaderboard:")
             try:
-                df_selected = fetch_github_csv("https://raw.githubusercontent.com/benpbooth/StatCaddy/main/best_selected_players_mexico_open_2025_02_17_07_38_33_PM_EST.csv.csv")
+                df_selected = fetch_github_csv("https://raw.githubusercontent.com/benpbooth/StatCaddy/main/best_selected_players_mexico_open_2025_02_17_07_38_33_PM_EST.csv")
                 
                 if "player_name" in df_selected.columns:
                     selected_players = set(df_selected["player_name"].astype(str))
@@ -150,7 +150,7 @@ def main():
         elif page == "Selected Players Data":
             st.write("### Selected Players Data:")
             try:
-                df_selected = fetch_github_csv("https://raw.githubusercontent.com/benpbooth/StatCaddy/main/best_selected_players_mexico_open_2025_02_17_07_38_33_PM_EST.csv.csv")
+                df_selected = fetch_github_csv("https://raw.githubusercontent.com/benpbooth/StatCaddy/main/best_selected_players_mexico_open_2025_02_17_07_38_33_PM_EST.csv")
                 st.dataframe(df_selected.style.set_properties(**{"width": "50px"}), height=1000, use_container_width=True)
             except Exception as e:
                 st.error(f"Error loading selected players CSV file: {e}")
