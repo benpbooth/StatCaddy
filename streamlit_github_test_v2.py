@@ -48,6 +48,7 @@ def login_page():
             if authenticate_user(username, password):
                 st.session_state["logged_in"] = True
                 st.session_state["username"] = username
+                st.experimental_set_query_params(logged_in=True, username=username)
                 st.rerun()
             else:
                 st.error("Invalid Username or Password")
@@ -117,8 +118,10 @@ def get_live_leaderboard():
         return pd.DataFrame()
 
 def main():
+    query_params = st.experimental_get_query_params()
     if "logged_in" not in st.session_state:
-        st.session_state["logged_in"] = False
+        st.session_state["logged_in"] = query_params.get("logged_in", [False])[0]
+        st.session_state["username"] = query_params.get("username", [""])[0]
 
     if not st.session_state["logged_in"]:
         login_page()
@@ -158,6 +161,7 @@ def main():
         if st.sidebar.button("Logout"):
             st.session_state["logged_in"] = False
             st.session_state["username"] = ""
+            st.experimental_set_query_params(logged_in=False, username="")
             st.rerun()
     
 if __name__ == "__main__":
