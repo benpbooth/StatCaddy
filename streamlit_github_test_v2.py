@@ -118,7 +118,7 @@ def get_live_leaderboard():
         return pd.DataFrame()
 
 def main():
-    query_params = st.query_params()
+    query_params = st.query_params
     if "logged_in" not in st.session_state:
         st.session_state["logged_in"] = query_params.get("logged_in", [False])[0]
         st.session_state["username"] = query_params.get("username", [""])[0]
