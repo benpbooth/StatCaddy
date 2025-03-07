@@ -1,0 +1,11 @@
+player_name,sportsbook,odds,dg_odds,value_diff
+"McGreevy, Max",caesars,250000,184515.0,65485.0
+"Taylor, Nick",fanduel,75000,55238.0,19762.0
+"Taylor, Nick",caesars,75000,55238.0,19762.0
+"Taylor, Nick",bovada,75000,55238.0,19762.0
+"McGreevy, Max",bovada,200000,184515.0,15485.0
+"Taylor, Nick",pointsbet,70000,55238.0,14762.0
+"Kirk, Chris",bovada,50000,38062.0,11938.0
+"Kirk, Chris",caesars,50000,38062.0,11938.0
+"Kirk, Chris",fanduel,50000,38062.0,11938.0
+"Kirk, Chris",pointsbet,50000,38062.0,11938.0

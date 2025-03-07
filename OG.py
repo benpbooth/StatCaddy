@@ -5,8 +5,8 @@ import os
 
 # Load the data
 #os.chdir(r'C:\Users\User\Documents\Sports\Golf')
-data_path = "/Users/benbooth/PycharmProjects/StatCaddy/arnold_palmer_invitational_win_american.csv"
-stats_file = "/Users/benbooth/PycharmProjects/StatCaddy/player_rankings_3:7:25.csv"
+data_path = "/Users/benbooth/Desktop/StatCaddy/at&t_pebble_beach_pro-am_win_american.csv"
+stats_file = "/Users/benbooth/Desktop/StatCaddy/datagolf_rankings_current.csv"
 df = pd.read_csv(data_path)
 stats_df = pd.read_csv(stats_file)
 

@@ -1,39 +1,30 @@
-player_name,fanduel_odds,dg_rank,owgr_rank
-"Finau, Tony",6000,24,29
-"Kim, Tom",6000,32,24
-"Pendrith, Taylor",5000,21,42
-"Bhatia, Akshay",8000,39,31
-"Hovland, Viktor",5000,22,9
-"Scheffler, Scottie",450,1,1
-"Macintyre, Robert",6000,23,16
-"Hadwin, Adam",27000,139,68
-"Harman, Brian",17000,82,33
-"Im, Sungjae",2500,9,17
-"Aberg, Ludvig",1800,12,6
-"Day, Jason",3500,30,32
-"Spaun, J.J.",8000,42,74
-"Burns, Sam",3500,14,22
-"Echavarria, Nicolas",15000,73,43
-"Davis, Cameron",11000,83,52
-"Hodges, Lee",15000,70,80
-"Taylor, Nick",8000,96,27
-"Bezuidenhout, Christiaan",17000,57,59
-"Young, Cameron",9000,76,45
-"Zalatoris, Will",5000,53,64
-"Hall, Harry",8000,29,85
-"Knapp, Jake",30000,281,107
-"Spieth, Jordan",6000,115,77
-"Griffin, Ben",10000,37,63
-"Lower, Justin",22000,64,76
-"Conners, Corey",5000,15,40
-"Cantlay, Patrick",1800,10,13
-"Woodland, Gary",15000,121,187
-"Straka, Sepp",6000,26,20
-"Clark, Wyndham",5000,41,7
-"Thomas, Justin",1400,8,14
-"Scott, Adam",7500,28,21
-"Thompson, Davis",9000,43,46
-"Eckroat, Austin",15000,59,39
-"Greyserman, Max",6000,19,35
-"Jaeger, Stephan",12000,71,44
-"Morikawa, Collin",1400,4,4
+position,player_name,course,score,thru,today,sg_putt,sg_arg,sg_app,sg_ott,sg_t2g,sg_total,fanduel_odds,primary_tour,dg_rank,dg_change,owgr_rank,owgr_change,dg_index
+T5,"McIlroy, Rory",BH,-4,18,-2,2.99,-0.21,-1.28,0.51,-0.97,2.01,450,PGA Tour,2.0,0.0,2.0,1.0,2.095
+T23,"MacIntyre, Robert",BH,1,18,-1,-0.04,-0.34,0.1,1.29,1.05,1.01,15000,PGA Tour,22.0,1.0,19.0,-3.0,1.016
+T65,"McNealy, Maverick",BH,9,18,8,-0.44,-6.12,-1.98,0.55,-7.55,-7.99,9000,PGA Tour,17.0,1.0,12.0,1.0,1.207
+T9,"Thomas, Justin",BH,-3,18,-2,-1.51,0.64,1.22,1.67,3.52,2.01,1600,PGA Tour,6.0,0.0,8.0,1.0,1.67
+T46,"Schauffele, Xander",BH,4,18,-1,2.1,-1.71,0.03,0.58,-1.09,1.01,25000,PGA Tour,3.0,0.0,3.0,-1.0,2.017
+T31,"McCarthy, Denny",BH,2,18,1,2.12,-1.38,0.14,-1.88,-3.11,-0.99,12000,PGA Tour,27.0,-6.0,38.0,-2.0,0.96
+T3,"Conners, Corey",BH,-5,18,-2,1.53,0.13,-0.16,0.51,0.48,2.01,1600,PGA Tour,35.0,-3.0,50.0,0.0,0.911
+11,"Aberg, Ludvig",BH,-2,14,-2,1.32,0.04,-0.33,0.91,0.63,1.95,1800,PGA Tour,11.0,0.0,4.0,0.0,1.466
+T5,"Henley, Russell",BH,-4,18,-4,0.08,1.9,2.09,-0.06,3.93,4.01,5000,PGA Tour,12.0,2.0,14.0,3.0,1.432
+T23,"Scheffler, Scottie",BH,1,14,2,-2.92,-0.62,-0.4,1.9,0.88,-2.05,300,PGA Tour,1.0,0.0,1.0,0.0,2.752
+T23,"Cantlay, Patrick",BH,1,18,2,-1.47,-0.05,0.18,-0.66,-0.52,-1.99,2000,PGA Tour,10.0,0.0,13.0,-1.0,1.536
+T53,"Davis, Cam",BH,6,15,8,1.21,-1.23,-5.39,-2.34,-8.95,-7.75,5500,,,,,,
+T35,"Fleetwood, Tommy",BH,3,18,0,-2.79,0.9,1.71,0.19,2.81,0.01,15000,PGA Tour,9.0,0.0,10.0,0.0,1.556
+T35,"Harman, Brian",BH,3,18,2,-1.25,0.68,-1.51,0.09,-0.74,-1.99,20000,PGA Tour,54.0,2.0,37.0,0.0,0.653
+T31,"Matsuyama, Hideki",BH,2,14,1,0.08,0.41,-2.12,0.59,-1.12,-1.05,4500,PGA Tour,8.0,0.0,6.0,0.0,1.604
+T31,"Rai, Aaron",BH,2,18,0,-0.1,0.29,-0.25,0.08,0.11,0.01,25000,PGA Tour,30.0,-2.0,25.0,-1.0,0.949
+T18,"Koivun, Jackson",BH,0,18,0,0.97,-1.13,-1.26,1.42,-0.96,0.01,17000,Amateur Events,281.0,2.0,,0.0,-0.507
+T46,"Rodgers, Patrick",BH,4,18,2,-1.33,-0.26,-0.88,0.48,-0.66,-1.99,27000,PGA Tour,56.0,10.0,72.0,1.0,0.641
+T3,"Bradley, Keegan",BH,-5,13,-2,0.44,-0.08,0.95,0.46,1.33,1.77,1400,PGA Tour,31.0,-2.0,16.0,-1.0,0.942
+T12,"Finau, Tony",BH,-1,18,-1,-1.75,-0.47,1.86,1.37,2.76,1.01,6000,PGA Tour,18.0,1.0,27.0,0.0,1.206
+T18,"Bezuidenhout, Christiaan",BH,0,18,3,0.08,0.21,-2.21,-1.07,-3.07,-2.99,3300,PGA Tour,46.0,-6.0,54.0,-3.0,0.734
+T12,"Rose, Justin",BH,-1,18,1,-0.89,-2.1,1.65,0.35,-0.1,-0.99,7500,PGA Tour,121.0,1.0,36.0,2.0,0.188
+T23,"Kim, Michael",BH,1,11,-2,0.16,0.19,1.15,0.46,1.8,1.96,30000,PGA Tour,38.0,12.0,68.0,11.0,0.836
+T5,"Morikawa, Collin",BH,-4,13,-3,-0.35,1.14,1.1,0.89,3.12,2.77,1600,PGA Tour,5.0,0.0,5.0,0.0,1.819
+2,"Clark, Wyndham",BH,-6,18,-1,1.16,0.83,-0.39,-0.58,-0.15,1.01,700,PGA Tour,51.0,0.0,7.0,0.0,0.694
+T12,"Kim, Si Woo",BH,-1,15,1,-0.17,0.1,0.45,-1.12,-0.58,-0.75,3000,PGA Tour,32.0,-2.0,71.0,-6.0,0.932
+1,"Lowry, Shane",BH,-8,18,-5,1.59,1.64,0.81,0.97,3.42,5.01,1200,PGA Tour,15.0,1.0,17.0,1.0,1.291
+T9,"Greyserman, Max",BH,-3,18,-1,-1.41,1.24,0.23,0.95,2.42,1.01,3500,PGA Tour,23.0,10.0,35.0,0.0,0.969
+T35,"Zalatoris, Will",BH,3,18,0,-0.7,-2.05,0.71,2.05,0.71,0.01,25000,PGA Tour,50.0,-1.0,70.0,-4.0,0.706
