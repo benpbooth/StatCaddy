@@ -1,8 +1,15 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import os
+import sys
+import subprocess
 
+try:
+    import pandas as pd
+except ModuleNotFoundError:
+    print("📦 Installing pandas...")
+    subprocess.run([sys.executable, "-m", "pip", "install", "pandas"])
+    import pandas as pd  # 🔄 Try importing again after installation
 # Load the data
 #os.chdir(r'C:\Users\User\Documents\Sports\Golf')
 data_path = "/Users/benbooth/PycharmProjects/StatCaddy/arnold_palmer_invitational_win_american.csv"
