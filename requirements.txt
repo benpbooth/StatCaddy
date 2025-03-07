@@ -1,5 +1,5 @@
 pandas==2.1.4
-numpy
+numpy==1.26.4
 requests
 matplotlib
 streamlit
