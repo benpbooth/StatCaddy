@@ -31,18 +31,25 @@ st.markdown(
 )
 
 
-# Function to fetch optimized players from Optimized_Group.py output
+# ✅ Function to fetch optimized players from Optimized_Group.py output
 def fetch_optimized_players():
     try:
-        # Run Optimized_Group.py to generate a fresh set of players
+        # Run Optimized_Group.py
         subprocess.run(["python3", "Optimized_Group.py"], check=True)
 
-        # Fetch the newly updated CSV file
+        # Fetch CSV from GitHub
         url = "https://raw.githubusercontent.com/benpbooth/StatCaddy/main/best_selected_players.csv"
         response = requests.get(url)
+
         if response.status_code == 200:
             df = pd.read_csv(StringIO(response.text))
-            df.columns = df.columns.astype(str).str.lower().str.strip()
+
+            # 🔥 Normalize column names to avoid hidden issues
+            df.columns = df.columns.str.strip().str.lower()  # Convert to lowercase and strip spaces
+
+            # Debugging: Print column names to verify
+            print("Columns in DataFrame:", df.columns.tolist())
+
             return df
         else:
             st.error(f"Error fetching optimized players: {response.status_code}")
@@ -52,7 +59,7 @@ def fetch_optimized_players():
         return pd.DataFrame()
 
 
-# Function to fetch live leaderboard data
+# ✅ Function to fetch live leaderboard data
 def fetch_live_leaderboard():
     params = {
         "tour": "pga",
@@ -83,14 +90,14 @@ def fetch_live_leaderboard():
         return pd.DataFrame()
 
 
-# Function to highlight optimized players in the leaderboard
+# ✅ Function to highlight optimized players in the leaderboard
 def highlight_optimized(row):
     if row["player_name"] in st.session_state.get("latest_group", []):
         return ["background-color: #4E8098; color: white; font-weight: bold;"] * len(row)
     return [""] * len(row)
 
 
-# Streamlit UI
+# ✅ Streamlit UI
 def main():
     """Main Streamlit function to display leaderboard and optimized groups."""
     st.title("Arnold Palmer Invitational - 2025")
@@ -101,24 +108,29 @@ def main():
 
     if st.button("🔄 Generate New Group"):
         df_selected = fetch_optimized_players()  # Fetch new optimized players
-        st.session_state["latest_group"] = df_selected["player_name"].tolist()  # Store in session state
 
-    # Ensure latest group is displayed correctly
+        # ✅ Debug: Check if df_selected is empty
+        if df_selected.empty:
+            st.warning("⚠️ No players found in the optimized group. Check your CSV file.")
+        else:
+            st.session_state["latest_group"] = df_selected["player_name"].tolist()  # Store in session state
+
+    # ✅ Ensure latest group is displayed correctly
     optimized_players = set(st.session_state.get("latest_group", []))
 
-    # Apply blue highlights without filtering out other players
+    # ✅ Apply blue highlights without filtering out other players
     styled_df = df_leaderboard.style.apply(highlight_optimized, axis=1)
 
-    # Display full leaderboard with blue highlights
+    # ✅ Display full leaderboard with blue highlights
     st.dataframe(styled_df, height=700, use_container_width=True)
 
-    # Save Group Button
+    # ✅ Save Group Button
     if st.button("📌 Save This Group"):
         if "latest_group" in st.session_state and st.session_state["latest_group"]:
             st.session_state["optimized_groups"].append(st.session_state["latest_group"])
             st.success(f"✅ Group {len(st.session_state['optimized_groups'])} saved!")
 
-    # Display Saved Optimized Groups
+    # ✅ Display Saved Optimized Groups
     if "optimized_groups" in st.session_state and st.session_state["optimized_groups"]:
         st.header("📌 Saved Optimized Groups")
         for idx, group in enumerate(st.session_state["optimized_groups"], start=1):
